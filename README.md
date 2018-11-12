@@ -1,2 +1,2 @@
 # hello_world
-new to git hub
+print('hello world')
